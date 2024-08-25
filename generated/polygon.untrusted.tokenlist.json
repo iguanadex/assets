@@ -1,0 +1,12 @@
+{
+  "name": "Iguana",
+  "timestamp": "2021-12-07T00:00:00.000Z",
+  "logoURI": "https://raw.githubusercontent.com/iguana-dex/assets/main/iguana_brand_assets/icon.webp",
+  "keywords": ["iguana", "untrusted"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": []
+}
