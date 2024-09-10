@@ -1,0 +1,77 @@
+{
+  "name": "IguanaDEX Etherlink Default",
+  "timestamp": "2024-10-10T12:18:57.473Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "logoURI": "https://iguanadex.com/logo.png",
+  "keywords": ["iguanadex", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "chainId": 42793,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/IguanaDEX/assets/main/assets/0xB1Ea698633d57705e93b0E40c1077d46CD6A51d8.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+      "chainId": 42793,
+      "decimals": 6,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdt.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+      "chainId": 42793,
+      "decimals": 6,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/usdc.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+      "chainId": 42793,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/IguanaDEX/assets/main/assets/0xfc24f770F94edBca6D6f885E12d4317320BcB401.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F",
+      "chainId": 42793,
+      "decimals": 8,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xaA40A1cc1561c584B675cbD12F1423A32E2a0d8C",
+      "chainId": 42793,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/bnb.png"
+    },
+    {
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "address": "0xe820995cD39B6E09EAa7e4e16337184b4A61B644",
+      "chainId": 42793,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369"
+    },
+    {
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "address": "0xBBD1F50A212357067318a84179892684e1Ac5181",
+      "chainId": 42793,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/standard/shiba.png?1696511800"
+    }
+  ]
+}
