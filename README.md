@@ -13,5 +13,3 @@
 ## List generation
 
 To generate lists for all supported networks, simply run 'npm run generate' from the root directory ('assets') in your Terminal.
-
-
